@@ -21,7 +21,7 @@ In config/app.php add the service provider and alias.
 ```
 
 ```php
-'Menu' => 'Dowilcox\JsVar\Facades\JsVar',
+'JsVar' => 'Dowilcox\JsVar\Facades\JsVar',
 ```
 
 ### Example
