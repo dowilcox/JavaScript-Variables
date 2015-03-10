@@ -5,7 +5,7 @@ Send variables into JavaScript. Can be used standalone or with a Laravel service
 ### Installation
 Add to your composer.json file
 ```json
-"dowilcox/knp-menu-laravel": "dev-master"
+"dowilcox/javascript-variables": "dev-master"
 ```
 
 ```php
