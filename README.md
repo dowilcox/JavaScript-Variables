@@ -1,6 +1,6 @@
 JavaScript-Variables
 ============
-Sent variables into JavaScript. Can be used standalone or with a Laravel service provider.
+Send variables into JavaScript. Can be used standalone or with a Laravel service provider.
 
 ### Installation
 Add to your composer.json file
